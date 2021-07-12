@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Road Temp Heat Map For Seattle 
 
 React application that tracks road temperatures. After the June, 2021 heat wave in Seattle caused roads to buckle, this project will help visually track temperatures and possibly predict future road damage.
 
